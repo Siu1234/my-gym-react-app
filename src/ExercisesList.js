@@ -46,7 +46,7 @@ const ExercisesList = () => {
       <button style={{ width: "150px", height: "40px" }} onClick={() => setIsOpen4(!isOpen4)}>Biceps</button>
       {isOpen4 && (
         <div style={{ border: '1px solid black', margin: "10px 100px 10px 100px"}}>
-          <p>彎舉 10下 (0) 1 1 1 <input type="checkbox" /></p>
+          <p>彎舉 10下 (0.5) 1.5 1.5 1.5 <input type="checkbox" /></p>
           <p>直舉 10下 1 1 1 <input type="checkbox" /></p>
         </div>
       )}
@@ -56,13 +56,17 @@ const ExercisesList = () => {
         <div style={{ border: '1px solid black', margin: "10px 100px 10px 100px"}}>
           <p>Rear Delt Fly 15下 1 1 1 <input type="checkbox" /></p>
           <p>Lateral Raise 20下 0 0 0 <input type="checkbox" /></p>
-          <p>Shoulder Press 10下 1 1 1 <input type="checkbox" /></p>
+          <p>Shoulder Press 10下 1.5 1.5 1.5 <input type="checkbox" /></p>
         </div>
       )}
       <p></p>
       <button style={{ width: "150px", height: "40px" }} onClick={() => setIsOpen6(!isOpen6)}>Jumper's Knee</button>
       {isOpen6 && (
         <div style={{ border: '1px solid black', margin: "10px 100px 10px 100px"}}>
+          <p>Towel Grab <input type="checkbox" /></p>
+          <p>Fan <input type="checkbox" /></p>
+          <p>Spread <input type="checkbox" /></p>
+          <p>Bigtoe Push <input type="checkbox" /></p>
           <p>Tiptoe Squat <input type="checkbox" /></p>
           <p>Calf Raise + Heel Raise 20下 2 2 2 <input type="checkbox" /></p>
           <p>Glute Exercises + Hamstring Hold 20下 1分鐘 <input type="checkbox" /></p>
