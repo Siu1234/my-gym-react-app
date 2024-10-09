@@ -14,11 +14,11 @@ const ExercisesList = () => {
       <button style={{ width: "150px", height: "40px" }} onClick={() => setIsOpen1(!isOpen1)}>SCAA</button>
       {isOpen1 && (
         <div style={{ border: '1px solid black', margin: "10px 100px 10px 100px"}}>
-          <p>Rack Squat 10下 20 30 <input type="checkbox" /></p>
-          <p>RDL 10下 10kg 15kg <input type="checkbox" /></p>
-          <p>Lat Pull Down 10下 32kg 39kg <input type="checkbox" /></p>
+          <p>Rack Squat 10下 20 30 35<input type="checkbox" /></p>
+          <p>RDL 10下 10 15 20 15 <input type="checkbox" /></p>
+          <p>Lat Pull Down 10下 32 39 45 39 <input type="checkbox" /></p>
           <p>Seated Row 10下 25kg 30kg <input type="checkbox" /></p>
-          <p>Cable Tricep Extension 10下 5 6 <input type="checkbox" /></p>
+          <p>Cable Tricep Extension 10下 5 6 7 7 <input type="checkbox" /></p>
           <p>Leg Extension Combo 30 20lbs 10 100lbs <input type="checkbox" /></p>
         </div>
       )}
