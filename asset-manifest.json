@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/my-gym-react-app/static/css/main.9d4e50d1.css",
-    "main.js": "/my-gym-react-app/static/js/main.62990c41.js",
+    "main.js": "/my-gym-react-app/static/js/main.d30830d8.js",
     "static/js/453.be1ff2fe.chunk.js": "/my-gym-react-app/static/js/453.be1ff2fe.chunk.js",
     "static/media/logo.svg": "/my-gym-react-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/my-gym-react-app/index.html",
     "main.9d4e50d1.css.map": "/my-gym-react-app/static/css/main.9d4e50d1.css.map",
-    "main.62990c41.js.map": "/my-gym-react-app/static/js/main.62990c41.js.map",
+    "main.d30830d8.js.map": "/my-gym-react-app/static/js/main.d30830d8.js.map",
     "453.be1ff2fe.chunk.js.map": "/my-gym-react-app/static/js/453.be1ff2fe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9d4e50d1.css",
-    "static/js/main.62990c41.js"
+    "static/js/main.d30830d8.js"
   ]
 }
